@@ -1,0 +1,5 @@
+data/*
+logs/*
+initdb/*
+import/*
+.env
